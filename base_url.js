@@ -1,0 +1,1 @@
+export const REACT_APP_BASEURL = () => {return 'https://rbac-b.onrender.com'};
